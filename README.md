@@ -8,7 +8,7 @@
 * **Language:** Python 
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 * **ML Framework:** Scikit-Learn (Classification & Tuning)
-* **Environment:** Google Colab / Jupyter Notebook
+* **Environment:** Google Colab
 
 ---
 
@@ -16,7 +16,7 @@
 * **`mobile_classification.ipynb`** - Main code, Data Cleaning, and ML Models.
 * **`train.csv`** - The dataset containing 2,000 mobile phone records.
 * **`best_model.pkl`** - My best-performing trained model (ready to use!).
-* **`visualizations/`** - Folder containing all the cool charts and heatmaps.
+* **`figures/`** - Folder containing all the nice charts and heatmaps.
 
 ---
 
