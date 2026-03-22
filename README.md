@@ -37,7 +37,7 @@
 ---
 
 ###  Why I Made This?
-I am a **CSE student** and I'm deeply interested in **Machine Learning and Data Science**. I wanted to learn how real-world products (like phones) are priced based on their features. This project helped me practice data preprocessing, feature importance, and model saving. **Learning by doing!**
+I'm deeply interested in **Machine Learning and Data Science**. I wanted to learn how real-world products (like phones) are priced based on their features. This project helped me practice data preprocessing, feature importance, and model saving. **Learning by doing!**
 
 ---
 
