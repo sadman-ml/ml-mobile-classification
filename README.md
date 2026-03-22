@@ -12,14 +12,6 @@
 
 ---
 
-###  Files in This Repo:
-* **`mobile_classification.ipynb`** - Main code, Data Cleaning, and ML Models.
-* **`train.csv`** - The dataset containing 2,000 mobile phone records.
-* **`best_model.pkl`** - My best-performing trained model (ready to use!).
-* **`figures/`** - Folder containing all the nice charts and heatmaps.
-
----
-
 ###  What I Discovered?
 * **RAM is the King:** My analysis shows that **52%** of a phone's price depends solely on its RAM. It's the biggest factor! 
 * **Battery & Screen:** After RAM, Battery power (~7.3%) and Pixel resolution are the next most important things for a higher price tag. 
